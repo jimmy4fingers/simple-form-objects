@@ -1,0 +1,4 @@
+suites:
+    mapper_suite:
+        namespace: FormObjects
+        psr4_prefix: FormObjects
