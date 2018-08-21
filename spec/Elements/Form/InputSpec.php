@@ -17,10 +17,4 @@ class InputSpec extends ObjectBehavior
     {
         $this->getTag()->shouldReturn('input');
     }
-
-    function it_sets_type()
-    {
-        $this->setType('number');
-        $this->getType()->shouldReturn('number');
-    }
 }

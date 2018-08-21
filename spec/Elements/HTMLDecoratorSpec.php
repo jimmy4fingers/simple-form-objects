@@ -34,8 +34,4 @@ class HTMLDecoratorSpec extends ObjectBehavior
         $this->setAfterElement(new Element(['tag'=>'div']));
     }
 
-    function it_renders_all_the_elements()
-    {
-        // @todo render all elements
-    }
 }
