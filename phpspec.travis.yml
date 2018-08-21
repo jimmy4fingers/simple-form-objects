@@ -1,0 +1,6 @@
+suites:
+  default:
+    namespace: DataMapper
+    psr4_prefix: DataMapper
+
+formatter.name: pretty
