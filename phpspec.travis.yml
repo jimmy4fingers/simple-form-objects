@@ -1,0 +1,6 @@
+suites:
+  default:
+    namespace: FormObjects
+    psr4_prefix: FormObjects
+
+formatter.name: pretty
